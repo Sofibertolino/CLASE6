@@ -1,0 +1,1 @@
+<p>Se resolvio el conflicto uniendo los textos</p>
